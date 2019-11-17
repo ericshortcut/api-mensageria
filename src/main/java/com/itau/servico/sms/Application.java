@@ -1,4 +1,4 @@
-package com.itau.servico.sms.sms;
+package com.itau.servico.sms;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

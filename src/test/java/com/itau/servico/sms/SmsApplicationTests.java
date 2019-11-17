@@ -1,4 +1,4 @@
-package com.itau.servico.sms.sms;
+package com.itau.servico.sms;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
