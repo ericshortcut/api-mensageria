@@ -2,7 +2,6 @@ spring:
   kafka:
     consumer:
       bootstrap-servers: localhost:9092
-      group-id: group_json
 app:
   topics:
     sms-consumer: sms_message_send
